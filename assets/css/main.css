@@ -124,6 +124,17 @@ input, select, textarea {
 		margin: 10px;
 	}
 
+	.logo-banner {
+		display: flex;
+		justify-content: center;
+	}
+
+	.logo-banner img {
+		width: auto;
+		height: 150px;
+		margin: 10px;
+	}
+
 /* Type */
 
 	body, input, select, textarea {
