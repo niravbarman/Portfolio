@@ -134,7 +134,24 @@ input, select, textarea {
 		width: auto;
 		height: 150px;
 		margin: 10px;
+		text-decoration: none;
 	}
+
+	/*
+	a.logo-banner {
+		display: flex;
+		justify-content: center;
+		text-decoration: none;
+	}
+
+	a.logo-banner img {
+		width: auto;
+		height: 150px;
+		margin: 10px;
+		text-decoration: none;
+	}
+
+	*/
 
 /* Type */
 
