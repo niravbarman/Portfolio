@@ -127,6 +127,7 @@ input, select, textarea {
 	.logo-banner {
 		display: flex;
 		justify-content: center;
+		text-decoration: none;
 	}
 
 	.logo-banner img {
