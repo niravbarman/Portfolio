@@ -112,6 +112,18 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+	.logo-bar {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+
+	.logo-bar img {
+		width: auto;
+		height: 100px;
+		margin: 10px;
+	}
+
 /* Type */
 
 	body, input, select, textarea {
