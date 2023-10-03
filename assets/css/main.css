@@ -119,6 +119,7 @@ input, select, textarea {
 	}
 
 	.logo-bar img {
+		border: 1px solid white;
 		width: auto;
 		height: 100px;
 		margin: 10px;
@@ -130,6 +131,7 @@ input, select, textarea {
 	}
 
 	.logo-banner img {
+		border: 1px solid white;
 		width: auto;
 		height: 150px;
 		margin: 10px;
